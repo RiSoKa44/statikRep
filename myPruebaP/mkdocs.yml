@@ -1,1 +1,7 @@
 site_name: RiSoKaComenta
+nav:
+    - Home: index.md
+    - Campeón Favorito LOL: favorito.md
+    - Lista de Champs rotos: freeElo.md
+    - Composiciones con amigos: amigos.md
+theme: windmill-dark
